@@ -1,0 +1,5 @@
+GoogleNews-vectors-negative300.bin
+candidate_data.csv data.csv input.csv output.csv sentences.csv vocab.csv
+runs
+runs_bkup
+runs_bkup git status
